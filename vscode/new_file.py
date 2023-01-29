@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 x = 1
 print("skugdfksh")
 =======
@@ -14,3 +15,8 @@ print("nalkdbflfkbl")
 print("nalkdbflfkbl")
 print()
 >>>>>>> 5d49d69 (edit new_file)
+=======
+print("jfh")
+print("nalkdbflfkbl")
+print()
+>>>>>>> 3013df9baa4db766e8e5847947e877b1067d48d9

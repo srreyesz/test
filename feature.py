@@ -1,5 +1,2 @@
 print("hello world")
-<<<<<<< HEAD
-=======
-print("dhckjdh")
->>>>>>> feature
+y = 3 + 5

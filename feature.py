@@ -1,2 +1,2 @@
 print("hello world")
-y = 3 + 5
+x = 24 + 5

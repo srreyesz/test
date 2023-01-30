@@ -36,3 +36,13 @@ def create_strings_from_characters(frequencies, string1, string2):
     
     return 0  
     
+def pairs_sum_to_target(list1, list2, target):
+    lst_final = []
+    for index1 in range(len(list1)):
+        for index2 in range(len(list2)):
+            if list1[index1] + list2[index2] == target:
+                lst = [index1, index2]
+                lst_final.append(lst)  
+       
+    
+    return lst_final

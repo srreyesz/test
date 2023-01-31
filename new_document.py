@@ -51,4 +51,4 @@ X = "esto es un cambio para utilizar git pull"
 y = "esto es un cambio para hacer un pull request"
 
 z = "hacer un pull request"
-new = "editar new"
+new = "editar new try"
